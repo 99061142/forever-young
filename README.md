@@ -1,2 +1,1 @@
-# forever-young
-School assignment
+# School assignment
